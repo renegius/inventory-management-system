@@ -45,7 +45,7 @@ A desktop inventory management application built in Python using Tkinter and MyS
 
 ## Screenshots
 
-_Add screenshots of the application interface here if available._
+
 
 ## Author
 
